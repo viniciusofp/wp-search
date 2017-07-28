@@ -28,11 +28,13 @@
 						    <a href="#">
 						    	<div style="width: 128px; height: 128px; background-image: url('{{post._embedded['wp:featuredmedia'][0].source_url}}'); background-size: cover; background-position: center"></div>
 						    </a>
+						  
 						  </div>
 						  <div class="media-body">
 							<a ng-href="{{post.link}}"><h4  class="media-heading" ng-bind-html="post.title.rendered"></h4></a>
 							<p><small><strong>{{post.midia}}</strong> | <span ng-bind-html="post.date | date"></span</small></p>
 							<p ng-bind-html="post.excerpt.rendered"></p>
+						  	
 						  </div>
 						</div>
 					</div>

@@ -64,7 +64,7 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 					    return n;
 					}
 
-					psts[i].occ = occurrences(psts[i].content.rendered, ' ' + termo);
+					psts[i].occ = occurrences(psts[i].excerpt.rendered, termo);
 					console.log(psts[i].occ)
 					if (psts[i].occ > 0) {
 					 	results.push(psts[i])
@@ -94,15 +94,13 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 
 })
 
-.controller('FirstCtrl', ['$scope', 'wp', function($scope, wp) {
-  $scope.posts = wp.busca($scope.buscatermo)
+.controller('FirstCtrl', ['$scope', '$q', 'wp', function($scope, $q, wp) {
+  $scope.posts = wp.busca('jornalismo')
   $scope.buscartermo = function() {
   	$scope.posts = wp.busca($scope.buscatermo)
-  	console.log('submit')
+
   }
-$scope.$watch(function() { 
-    console.log("digest called"); 
-});
+
 
 
   console.log($scope.posts)
