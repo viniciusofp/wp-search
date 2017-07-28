@@ -95,7 +95,8 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 })
 
 .controller('FirstCtrl', ['$scope', '$q', 'wp', function($scope, $q, wp) {
-  $scope.posts = wp.busca('jornalismo')
+  $scope.buscatermo = 'Festival'
+  $scope.posts = wp.busca($scope.buscatermo)
   $scope.buscartermo = function() {
   	$scope.posts = wp.busca($scope.buscatermo)
 
