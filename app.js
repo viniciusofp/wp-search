@@ -25,9 +25,25 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 			apiUrl: 'https://www.geledes.org.br/wp-json/wp/v2/'
 		},
 		{
-			name: 'Jota',
-			apiUrl: 'https://www.jota.info/wp-json/wp/v2/'
+			name: 'Blogueiras Negras',
+			apiUrl: 'http://blogueirasnegras.org/wp-json/wp/v2/'
 		},
+		{
+			name: 'AzMina',
+			apiUrl: 'http://azmina.com.br/wp-json/wp/v2/'
+		},
+		{
+			name: 'AzMina',
+			apiUrl: 'http://azmina.com.br/wp-json/wp/v2/'
+		},
+		{
+			name: 'Agência Pública',
+			apiUrl: 'http://apublica.org/wp-json/wp/v2/'
+		},
+		{
+			name: 'ÉNOIS',
+			apiUrl: 'https://enoisconteudo.com.br/wp-json/wp/v2/'
+		}
 	]
 
 	var wp = []
@@ -42,7 +58,6 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 				var psts = data[0];
 				for (var i = psts.length - 1; i >= 0; i--) {
 					psts[i].midia = psts[i].link.split('/').slice(2,3).join('/')
-
 
 					function occurrences(string, subString, allowOverlapping) {
 
@@ -64,7 +79,7 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 					    return n;
 					}
 
-					psts[i].occ = occurrences(psts[i].excerpt.rendered, termo);
+					psts[i].occ = occurrences(psts[i].content.rendered, termo);
 					console.log(psts[i].occ)
 					if (psts[i].occ > 0) {
 					 	results.push(psts[i])
@@ -86,16 +101,12 @@ angular.module('wpReader', ['ngSanitize','ngResource'])
 		};
 		return results
 	}
-
-
-
-
 	return wp
 
 })
 
 .controller('FirstCtrl', ['$scope', '$q', 'wp', function($scope, $q, wp) {
-  $scope.buscatermo = 'Festival'
+  $scope.buscatermo = 'Pesquise'
   $scope.posts = wp.busca($scope.buscatermo)
   $scope.buscartermo = function() {
   	$scope.posts = wp.busca($scope.buscatermo)
