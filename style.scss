@@ -1,0 +1,287 @@
+$corprimaria: #e6744e;
+
+body {
+	font-size: 15px;
+	color: #888;
+	background: url(https://www.toptal.com/designers/subtlepatterns/patterns/ps_neutral.png) fixed;
+}
+
+a {
+	color: inherit;
+}
+
+h1 {
+  font-size: 2em;
+  color: black;
+  /* 2x body copy size = 32px */
+  line-height: 1.25;
+  /* 45px / 36px */
+}
+
+@media (min-width: 43.75em) {
+  h1 {
+    font-size: 2.5em;
+    /* 2.5x body copy size = 40px */
+    line-height: 1.125;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h1 {
+    font-size: 3em;
+    /* 3x body copy size = 48px */
+    line-height: 1.05;
+    /* keep to a multiple of the 20px line height and something more appropriate for display headings */
+  }
+}
+
+h2 {
+  font-size: 1.625em;
+  /* 1.625x body copy size = 26px */
+  line-height: 1.15384615;
+  /* 30px / 26px */
+}
+
+@media (min-width: 43.75em) {
+  h2 {
+    font-size: 2em;
+    /* 2x body copy size = 32px */
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h2 {
+    font-size: 2.25em;
+    /* 2.25x body copy size = 36px */
+    line-height: 1.25;
+  }
+}
+
+h3 {
+  font-size: 1.35em;
+  /* 1.375x body copy size = 22px */
+  line-height: 1.13636364;
+  /* 25px / 22px */
+}
+
+@media (min-width: 43.75em) {
+  h3 {
+    font-size: 1.375em;
+    /* 1.5x body copy size = 24px */
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h3 {
+    font-size: 1.5em;
+    /* 1.75x body copy size = 28px */
+    line-height: 1.25;
+  }
+}
+
+h4 {
+  font-size: 1.125em;
+  /* 1.125x body copy size = 18px */
+  line-height: 1.11111111;
+}
+
+@media (min-width: 43.75em) {
+  h4 {
+    line-height: 1.22222222;
+    /* (22px / 18px */
+  }
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.post-container {
+	height: 300px;
+	padding: 20px;
+	.chapeu {
+	    display: inline-block;
+	    border-bottom: 3px solid lighten($corprimaria, 30%);
+	    padding-bottom: 5px;
+	    a:hover strong {
+	    	color: black;
+	    }
+	}
+    small {
+    	color: #b0b0b0;
+    	strong {
+    		color: $corprimaria;
+    		text-transform: uppercase;
+    	}
+    }
+	h3 {
+		margin-bottom: 15px;
+	}
+    @media all and (max-width: 767px) {
+    	height: auto;
+    }
+}
+
+.post-wrapper {
+	margin-bottom: 50px;
+	border-left: 1px solid #ddd;
+	h5 {
+		color: $corprimaria;
+	}
+}
+
+.post-wrapper:nth-of-type(10n + 6) {
+    width: 66.66666667%;
+	border-left: 0;
+	.post-container {
+		height: 300px;
+		padding: 18px;
+		border: 3px solid lighten($corprimaria, 30%);
+	    h3 {
+	    	color: $corprimaria;
+	    	font-size: 2.3em;
+	    	line-height: 1.1em;
+	    }
+	}
+    @media all and (max-width: 1200px) {
+    	width: 50%;
+    	.post-container {
+    		height: 300px;
+    	}
+    }
+    @media all and (max-width: 991px) {
+    	width: 100%;
+    	.post-container {
+    		height: 300px;
+    	}
+    }
+    @media all and (max-width: 767px) {
+    	width: 100%;
+    	.post-container {
+    		height: auto;
+    	}
+    }
+}
+
+
+.post-wrapper:nth-of-type(10n + 3) {
+	border-left: 0;
+	.post-container {
+		height: 300px;
+		padding: 20px;
+		background: #ededed;
+		color: $corprimaria;
+	    h3 {
+			color: darken($corprimaria, 10%);
+	    }
+	}
+}
+.post-wrapper:nth-of-type(10n+1) {
+    width: 33.33333333%;
+	border-left: 0;
+	.post-container {
+		height: 650px;
+	    background: $corprimaria;
+	    color: white;
+	    padding: 20px;
+    	small {
+    		color: lighten($corprimaria, 40%);
+	    	strong {
+	    		color: white;
+	    	}
+	    }
+	    h3 {
+	    	color: white;
+	    	font-size: 2.3em;
+	    	line-height: 1.2em;
+	    }
+		h5 {
+			color: lighten($corprimaria, 30%);
+		}
+	}
+    @media all and (max-width: 1200px) {
+    	width: 50%;
+    	.post-container {
+    		height: 300px;
+    	}
+    }
+    @media all and (max-width: 991px) {
+    	width: 100%;
+    	.post-container {
+    		height: 300px;
+    	}
+    }
+    @media all and (max-width: 767px) {
+    	width: 100%;
+    	.post-container {
+    		height: auto;
+    	}
+    }
+}
+
+#paginaatual {
+	color: lighten($corprimaria, 10%);
+}
+
+#next-page {
+	position: fixed;
+	top: 50%;
+	right: 15px;
+	a {
+		color: $corprimaria;
+	}
+	
+	font-size: 72px;
+}
+#previous-page {
+	position: fixed;
+	top: 50%;
+	left: 15px;
+	a {
+		color: $corprimaria;
+	}
+	
+	font-size: 72px;
+}
+
+#singleSource {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 100%;
+	overflow: scroll;
+	background: $corprimaria;
+	transition: 1s;
+	* {
+		color: white;
+	}
+	z-index: 99999;
+	.post-source-container {
+		border-top: 5px solid white;
+		padding-top: 20px;
+		margin-bottom: 60px;
+	}
+}
+#searchResults {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 100%;
+	overflow: scroll;
+	background: #eeeeee;
+	transition: 1s;
+
+	h2 {
+		color: $corprimaria;
+	}
+	z-index: 99999;
+	.post-source-container {
+		border-top: 5px solid white;
+		padding-top: 20px;
+		margin-bottom: 60px;
+	}
+}
