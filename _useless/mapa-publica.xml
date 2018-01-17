@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <results>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site e doação de Pessoas Jurídicas.&#xD;
+</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Projeto Envolverde foi criado em 1995 para fazer a gestão do semanário Terramérica, realizado em parceria com o Programa das Nações Unidas para o Meio Ambiente (Pnuma) e o Programa das Nações Unidas para o Desenvolvimento (Pnud), que depois veio a receber apoio do Banco Mundial. O portal, criado em 1998 e decorrente do projeto, hoje é um dos principais sites brasileiros sobre sustentabilidade. Já recebeu dois prêmios Ethos e um Prêmio de Melhor Mídia em Meio Ambiente do Instituto Chico Mendes, entre outros. O objetivo principal do site é ampliar o conhecimento social da sustentabilidade por meio do jornalismo e da comunicação.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/envolverde</facebook>
+            <id>2</id>
+            <linha_fina>Ampliar o conhecimento social da sustentabilidade por meio do jornalismo. &#xD;
+</linha_fina>
+            <localizacao>Nasceu em São Paulo e tem atuação nacional.</localizacao>
+            <logo>envolverde.jpg</logo>
+            <twitter>https://twitter.com/envolverde</twitter>
+            <url>www.envolverde.org.br</url>
+            <veiculo>Envolverde</veiculo>
+            <votos>185</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Revista online independente criada em 2014 para garotas adolescentes que fala de escola, relacionamentos, games, gadgets, moda, culinária, entre outros assuntos. Criada por jovens, tem a intenção de estabelecer um diálogo honesto com as leitoras, de forma inclusiva, sem restrições de classe social, raça, orientação sexual e aparência física. A intenção é representar todas as jovens, especialmente as que se sentem excluídas pelos moldes tradicionais da adolescência, mostrando que elas têm espaço para crescer da forma que são. O conteúdo é escrito por colaboradoras e inclui quadrinhos, ensaios fotográficos e produção literária. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/capitolinarevista</facebook>
+            <id>3</id>
+            <linha_fina>Para garotas adolescentes que não se encaixam nos moldes.</linha_fina>
+            <localizacao>Do Brasil todo.</localizacao>
+            <logo>revista_capitolina.jpg</logo>
+            <twitter>https://twitter.com/capitolinafala</twitter>
+            <url>http://revistacapitolina.com.br/</url>
+            <veiculo>Revista Capitolina</veiculo>
+            <votos>260</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas, editais e trabalhos em parcerias com ONGS e movimentos sociais.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>A Nigéria é uma produtora/coletivo formada por jovens comunicadores e realizadores de vídeos e documentários. Formada em 2010, tem o objetivo de empoderar e catalisar por meio do audiovisual o poder de transformação dos movimentos sociais. Funciona como coletivo na forma de organização e atuação horizontal, mas também é uma produtora, pois realiza serviços de produção audiovisual.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/coletivoNigeria/</facebook>
+            <id>4</id>
+            <linha_fina>Empoderar e catalisar o poder de transformação dos movimentos sociais.</linha_fina>
+            <localizacao>Fortaleza.</localizacao>
+            <logo>coletivo_nigeria.jpg</logo>
+            <twitter />
+            <url>https://www.facebook.com/coletivoNigeria/</url>
+            <veiculo>Coletivo Nigéria</veiculo>
+            <votos>177</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas, oficinas e eventos beneficentes. Mas ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Azmina é uma associação sem fins lucrativos que busca usar a cultura e a informação para alimentar o debate e empoderar mulheres. O principal produto é a Revista AzMina – para mulheres de A a Z, criada em 2015, que visa estimular o empoderamento feminino por meio da promoção da cultura e da informação de qualidade.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/revistaazmina</facebook>
+            <id>5</id>
+            <linha_fina>Usar a cultura e a informação para alimentar o debate e empoderar mulheres.</linha_fina>
+            <localizacao>Do mundo. Não existe uma sede, mas escritórios espalhados por vários países.</localizacao>
+            <logo>azmina.jpg</logo>
+            <twitter>https://twitter.com/revistaazmina</twitter>
+            <url>http://azmina.com.br/</url>
+            <veiculo>Azmina</veiculo>
+            <votos>218</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Dando cursos e fazendo conteúdo sob demanda. </como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Criado em 2014, o Volt Data Lab é uma agência dedicada a produzir reportagens e investigações a partir de dados, desenvolvendo projetos de direitos humanos, política, economia, desenvolvimento social, questões ambientais, mídia e tecnologia.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/voltdata</facebook>
+            <id>6</id>
+            <linha_fina>Agência dedicada a produzir reportagens e investigações a partir de dados.</linha_fina>
+            <localizacao>São Paulo, um pouco de Curitiba, com escopo de cobertura nacional.</localizacao>
+            <logo>volt_data_lab.jpg</logo>
+            <twitter>https://twitter.com/voltmediabr</twitter>
+            <url>http://www.voltdata.info/</url>
+            <veiculo>Volt Data Lab</veiculo>
+            <votos>132</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Doação de Pessoas Jurídicas e futuramente por crowdfunding.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Publicação independente, criada em 2013, sobre sociedade, arte, cultura, comunicação, literatura e humor, cuja missão principal é produzir um conteúdo crítico e contra-hegemônico ao da mídia empresarial, que tem o Bode Berro como mascote e guru. A revista é aberta, livre, anárquica, sem linha editorial definida – mas sem perder de vista "de que lado a gente samba". </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/RevistaBerroCE</facebook>
+            <id>7</id>
+            <linha_fina>Revista aberta, livre, anárquica.</linha_fina>
+            <localizacao>Fortaleza, com cobertura nacional.</localizacao>
+            <logo>revista_berro.jpg</logo>
+            <twitter>https://twitter.com/RevistaBerro</twitter>
+            <url>http://revistaberro.com/</url>
+            <veiculo>Revista Berro</veiculo>
+            <votos>136</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Patrocínio por leis de incentivo.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Lançado em 2015, o Vozerio tem se dedicado a contar histórias e a debater questões do Rio metropolitano e de seus moradores. Em reportagens, entrevistas, debates, vídeos, artigos e notícias, o Vozerio conta a história, explora a diversidade do Rio contemporâneo e indaga para onde caminha a metrópole.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/vozeriorevista/</facebook>
+            <id>8</id>
+            <linha_fina>Dedicado a contar histórias e a debater questões do Rio metropolitano e de seus moradores.</linha_fina>
+            <localizacao>O site foi criado e está baseado no Rio de Janeiro; seu foco é a região metropolitana do Rio de Janeiro.</localizacao>
+            <logo>vozerio.jpg</logo>
+            <twitter>https://twitter.com/vozeriorevista</twitter>
+            <url>http://www.vozerio.org.br/</url>
+            <veiculo>Vozerio</veiculo>
+            <votos>88</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Por meio de palestras e projetos especiais.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>É um projeto de investigação que interpreta e experimenta ideias para cidades mais humanas. Investiga a vida urbana em expedições por cidades do Brasil e do mundo usando como ferramentas a apuração jornalística e o desenho de observação. Interpreta suas descobertas em narrativas com diversas linguagens – reportagens, diários ilustrados, vídeos, mapas, palestras, exposições etc. E experimenta algumas dessas ideias na prática, em oficinas e protótipos de intervenções urbanas. Existe desde 2011.&#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/cidadesparapessoas</facebook>
+            <id>9</id>
+            <linha_fina>Projeto que interpreta e experimenta ideias para cidades mais humanas.</linha_fina>
+            <localizacao>Nasceu em São Paulo, mas tem cobertura nacional.</localizacao>
+            <logo>cidades_para_pessoas.jpg</logo>
+            <twitter />
+            <url>http://www.cidadesparapessoas.com/</url>
+            <veiculo>Cidades para Pessoas</veiculo>
+            <votos>169</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, doação de Pessoas Jurídicas, publicação de livros, realização de cursos, doações de Pessoas Físicas.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Centro de Estudos da Mídia Alternativa Barão de Itararé atua nacionalmente, com núcleos estaduais, produzindo conteúdo informativo e promovendo debates, cursos, palestras e atividades relacionadas à luta pela democratização da comunicação desde 2010. Uma das principais premissas dessa luta é que, sem pluralidade e diversidade de opiniões e ideias na mídia, que reflitam, inclusive, a riqueza dos contrastes regionais e culturais brasileiros, se torna &#xD;
+impossível avançar e consolidar, de fato, a democracia no país.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/baraomidia/</facebook>
+            <id>10</id>
+            <linha_fina>Produz conteúdo e promove atividades relacionadas à luta pela democratização da comunicação.</linha_fina>
+            <localizacao>A iniciativa nasceu em São Paulo. A cobertura é nacional.</localizacao>
+            <logo>barao_de_itarare.jpg</logo>
+            <twitter />
+            <url>http://www.baraodeitarare.org.br/</url>
+            <veiculo>Barão de Itararé</veiculo>
+            <votos>160</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, mas ainda não se banca. </como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Lado M existe para falar sobre empoderamento feminino por meio de reportagens, vídeos, ensaios fotográficos e muito mais. Conteúdos que mostrem que as mulheres podem ser e fazer o que quiserem, independentemente de estereótipos de gênero. É para isto que o Lado M existe: mostrar que as mulheres e as possibilidades de interesses e de estilos femininos vão muito além de qualquer padrão.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/SiteLadoM</facebook>
+            <id>11</id>
+            <linha_fina>Conteúdo que mostra que as mulheres podem ser e fazer o que quiserem.</linha_fina>
+            <localizacao>São Paulo</localizacao>
+            <logo>lado_m.jpg</logo>
+            <twitter>https://twitter.com/siteladom</twitter>
+            <url>http://www.lado-m.com/</url>
+            <veiculo>Lado M</veiculo>
+            <votos>126</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Produzindo conteúdo sob demanda.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Cooperativa de jornalistas, produtores culturais, técnicos em informática, profissionais em áreas específicas, tradutores, cinegrafistas, fotógrafos, designers, publicitários e editores. Foi fundada em 2011. &#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Portal.Desacato</facebook>
+            <id>12</id>
+            <linha_fina>Cria fontes de trabalho para jornalistas e produtores culturais independentes</linha_fina>
+            <localizacao>Florianópolis – mas a cobertura é sem fronteiras. As bases são Florianópolis e Santo Domingo (República Dominicana).</localizacao>
+            <logo>desacato.jpg</logo>
+            <twitter>https://twitter.com/desacatobrasil</twitter>
+            <url>http://www.desacato.info/</url>
+            <veiculo>Desacato</veiculo>
+            <votos>121</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Projetos de brand content.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>A missão do site, criado em 2014, é contar as histórias de realizadores e inovadores para inspirar e instrumentalizar outras pessoas a realizar e a inovar também. Narra a eclosão da nova economia no Brasil.&#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/projetodraft</facebook>
+            <id>13</id>
+            <linha_fina>Narra a eclosão da nova economia no Brasil.</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional.</localizacao>
+            <logo>projeto_draft.jpg</logo>
+            <twitter>https://twitter.com/projetodraft</twitter>
+            <url>http://www.projetodraft.com&#xD;
+</url>
+            <veiculo>Projeto Draft</veiculo>
+            <votos>134</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, crowdfunding, doação de Pessoas Jurídicas, realização de eventos.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Colabora é um projeto jornalístico sem fins lucrativos nem qualquer vinculação partidária. Ele nasce da certeza de que é preciso enfrentar a ideia do Eu, do Aqui e do Agora. Um conceito que tem dominado boa parte das conversas e das decisões que nos cercam. Prefere o Nós, em Qualquer Lugar, a Qualquer Hora. Quer trocar o Faça Você Mesmo pela Construção Coletiva. &#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/siteprojetocolabora</facebook>
+            <id>14</id>
+            <linha_fina>Projeto colaborativo de jornalismo ambiental.</linha_fina>
+            <localizacao>Rio de Janeiro, mas a cobertura de sustentabilidade, economia colaborativa e terceiro setor, naturalmente, acaba sendo nacional e, muitas vezes, mundial.</localizacao>
+            <logo>colabora.jpg</logo>
+            <twitter>https://twitter.com/colaboraprojeto</twitter>
+            <url>http://www.projetocolabora.com.br/</url>
+            <veiculo>#Colabora</veiculo>
+            <votos>96</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Investidor.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>A Lupa é a primeira agência de fact-checking do Brasil. Criada em 2015, verifica o grau de veracidade do que é dito não apenas por políticos, mas por líderes sociais, celebridades e empresas. Também se debruça sobre conteúdos de grande impacto e verifica informações que possam complementar a cobertura jornalística sobre ele. Como uma agência de notícias, a Lupa revende seu conteúdo para outros meios de comunicação, em parcerias estratégicas seladas caso a caso. &#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/LupaNews</facebook>
+            <id>15</id>
+            <linha_fina>Primeira agência de fact-checking do Brasil.</linha_fina>
+            <localizacao>Nasceu e funciona no Rio de Janeiro. A cobertura é focada no Brasil, com especial destaque em RJ, SP e BSB.</localizacao>
+            <logo>lupa.jpg</logo>
+            <twitter>https://twitter.com/lupanews</twitter>
+            <url>http://www.lupa.news.com/</url>
+            <veiculo>Lupa</veiculo>
+            <votos>142</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site (rara), mas geralmente tiram do próprio bolso.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Um site jornalístico sobre cultura pop, com entrevistas, reviews e coberturas de festivais de música, cinema, cerveja. Também produzem e lançam álbuns, fazem podcast e mixtapes e jornalismo musical aprofundado independentemente do apelo do entrevistado: tratando Caetano Veloso, Romulo Fróes e Loomer como iguais, porque todos fazem boa música.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/screamyell</facebook>
+            <id>16</id>
+            <linha_fina>Site jornalístico sobre cultura pop, com entrevistas, reviews e coberturas de festivais de música, cinema, cerveja.</linha_fina>
+            <localizacao>São Paulo, mas cobre América Latina e Portugal.</localizacao>
+            <logo>scream_and_yell.jpg</logo>
+            <twitter>https://twitter.com/screamyell</twitter>
+            <url>http://screamyell.com.br/site/</url>
+            <veiculo>Scream and Yell</veiculo>
+            <votos>88</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, mas ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Uma rede de coletivos originada na diversidade em 2015. Existe em contraponto à falsa unidade de pensamento e ação do jornalismo praticado pela mídia tradicional, centralizada e centralizadora. Os valores que os unem são o amor apaixonado pela democracia e a defesa radical dos direitos humanos. Coloca-se em oposição aos estratagemas da tradicional indústria jornalística (multi)nacional, que, antidemocrática por natureza, despreza o espírito jornalístico em favor de mal disfarçados interesses empresariais e ideológicos, comerciais e privados, corporativos e corporativistas.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook />
+            <id>17</id>
+            <linha_fina>Mídia democrática, plural, em rede, pela diversidade e defesa implacável dos direitos humanos.</linha_fina>
+            <localizacao>Nasceram em São Paulo, cobrem o Brasil.</localizacao>
+            <logo>jornalistas_livres.jpg</logo>
+            <twitter />
+            <url>https://medium.com/jornalistas-livres</url>
+            <veiculo>Jornalistas Livres</veiculo>
+            <votos>425</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Doações de Pessoas Físicas.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Grupo de orientação anticapitalista fundado em 2009 que, independente de partidos e demais poderes políticos e econômicos, é formado por colaboradores de Portugal e do Brasil, cujo intuito maior é construir um espaço comunicacional que contribua para a articulação e a unificação prática das lutas sociais. Estão disponíveis no site notícias, artigos opinativos, cartuns, denúncias, vídeos, áudios, debates e outros materiais informativos de produção própria, visando à construção de uma rede de solidariedade e colaboração entre todos aqueles que lutam contra as injustiças sociais.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/passapalavra</facebook>
+            <id>18</id>
+            <linha_fina>Construir um espaço comunicacional que contribua para a articulação e a unificação prática das lutas sociais</linha_fina>
+            <localizacao>Brasil e Portugal.</localizacao>
+            <logo>passapalavra.jpg</logo>
+            <twitter>https://twitter.com/passapalavra</twitter>
+            <url>http://www.passapalavra.info/</url>
+            <veiculo>Passapalavra</veiculo>
+            <votos>130</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, editais, prestação de serviços.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Como meio alternativo à mídia convencional e com uma perspectiva “de dentro pra dentro”, o site acompanha, reflete, apoia e difunde ações sociais, culturais, políticas e econômicas de iniciativa popular que visam à garantia dos direitos fundamentais nas bordas das cidades, especialmente no extremo sul de São Paulo, desde 2012.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/PeriferiaemMovimento/</facebook>
+            <id>19</id>
+            <linha_fina>Meio alternativo à mídia convencional e com uma perspectiva “de dentro pra dentro”</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>periferia_em_movimento.jpg</logo>
+            <twitter>https://twitter.com/PERIFASEMOVE</twitter>
+            <url>http://periferiaemmovimento.com.br/</url>
+            <veiculo>Periferia em Movimento</veiculo>
+            <votos>113</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Trombone é uma iniciativa jornalística que existe desde 2015 e pretende "explicar as notícias" do Rio de Janeiro para a geração conectada – que majoritariamente segue os acontecimentos por meio das redes sociais. Por isso, optaram por não ter um site próprio, mas postar explicações nas redes sociais mais importantes, levando em conta os formatos que mais se destacam em cada uma delas. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/trombonemedia</facebook>
+            <id>20</id>
+            <linha_fina>Pretende "explicar as notícias" do Rio de Janeiro para a geração conectada.</linha_fina>
+            <localizacao>Rio de Janeiro.</localizacao>
+            <logo>trombone.jpg</logo>
+            <twitter />
+            <url>https://www.facebook.com/trombonemedia</url>
+            <veiculo>Trombone</veiculo>
+            <votos>52</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>A Calle2 é uma revista digital que nasceu em 2015 e se propõe a ter um novo olhar sobre a América Latina. Cruza as fronteiras para mostrar pessoas, lugares, cores e sabores que fazem do continente latino-americano um dos mais diversos e fascinantes do mundo. A proposta é olhar, enxergar e retratar o cotidiano do continente, pouco explorado pela imprensa brasileira. Publica semanalmente grandes reportagens, crônicas, entrevistas, perfis, ensaios fotográficos e análises que pretendem retratar, além das boas histórias, as injustiças de uma região ainda tão desigual.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/revistacalle2/</facebook>
+            <id>21</id>
+            <linha_fina>Um novo olhar sobre a América Latina</linha_fina>
+            <localizacao>São Paulo, mas cobre a América Latina. </localizacao>
+            <logo>calle2.jpg</logo>
+            <twitter>https://twitter.com/revistacalle2</twitter>
+            <url>http://www.calle2.com/</url>
+            <veiculo>Calle2</veiculo>
+            <votos>135</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Canal de informações sobre segurança pública, justiça e direitos humanos que surgiu em 2014 da convicção de um grupo de jornalistas de que jornalismo de qualidade sob o prisma dos direitos humanos é capaz de ajudar na construção de um mundo mais justo; de que é preciso desnudar as razões pelas quais a população tem medo da tropa policial; revelar os fatos que levam os pobres e negros a serem vítimas de um Judiciário injusto e lento, e os caminhos que permitem que o sistema prisional invista bilhões de reais para causar dor e sofrimento aos apenados.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/pontejornalismo/</facebook>
+            <id>22</id>
+            <linha_fina>Canal de informações sobre segurança pública, justiça e direitos humanos.</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>PONTE_LOGO.png</logo>
+            <twitter>https://twitter.com/pontejornalismo</twitter>
+            <url>http://www.ponte.org/</url>
+            <veiculo>Ponte</veiculo>
+            <votos>202</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Por meio de editais.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>A Vaidapé é um coletivo de comunicação formado por jovens que debatem e divulgam movimentações culturais, periféricas e marginais por meio de um jornalismo independente. Na Vaidapé, a periferia é o centro. Articula-se com aqueles que não estão nos holofotes da grande imprensa e não são prioridade na agenda política. Atua no audiovisual, na radiodifusão, no meio impresso e digital, mas também desenvolve projetos e eventos que conectam e dialogam com jovens dos extremos da cidade.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/revistavaidape</facebook>
+            <id>23</id>
+            <linha_fina>Debater e divulgar movimentações culturais, periféricas e marginais.</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>vaidape.jpg.jpg</logo>
+            <twitter>https://twitter.com/revistavaidape</twitter>
+            <url>http://vaidape.com.br/</url>
+            <veiculo>Vaidapé</veiculo>
+            <votos>138</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Marco Zero Conteúdo é um coletivo de jornalismo investigativo que aposta em matérias aprofundadas, independentes e de interesse público. Produzidas e editadas por jornalistas que procuram ver o mundo com um olhar diferenciado, as reportagens podem ser livremente reproduzidas por qualquer veículo sob a licença creative commons. Para manter a independência, não recebe patrocínios de governos, empresas públicas ou privadas. Foca a produção jornalística em três pontos principais: semiárido nordestino, urbanismo e relações de poder. Também publica material produzido por parceiros editoriais espalhados por toda a América Latina. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/mzconteudo</facebook>
+            <id>24</id>
+            <linha_fina>Matérias aprofundadas, independentes e de interesse público.</linha_fina>
+            <localizacao>Recife.</localizacao>
+            <logo>marco_zero_conteudo.jpg</logo>
+            <twitter>https://twitter.com/mzconteudo</twitter>
+            <url>http://marcozero.org/</url>
+            <veiculo>Marco Zero Conteúdo</veiculo>
+            <votos>234</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Livre.jor é feito por jornalistas e existe desde 2014, com a regra de só usar dados públicos como matéria-prima para as notícias. O foco é aquilo que acontece no Paraná. Para isso fazem análise de bancos de dados, acompanham sistematicamente diários e documentos oficiais. Também "entrevistam" os poderes públicos via Lei de Acesso à Informação.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/livre.jor</facebook>
+            <id>25</id>
+            <linha_fina>Coloca as pessoas diante da informação, usando só dados públicos como matéria-prima para as notícias.</linha_fina>
+            <localizacao>Curitiba, mas cobre Paraná e às vezes Brasil.</localizacao>
+            <logo>livre.jor.png.jpg</logo>
+            <twitter>https://twitter.com/LivreJor</twitter>
+            <url>http://livre.jor.br/</url>
+            <veiculo>Livre.Jor</veiculo>
+            <votos>168</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Derivada da palavra "NOOlogia" (o estudo da mente, do conhecimento humano), NOO é um estímulo às sinapses, expressa a ideia de intelecto, pensamento e inteligência. Instiga os debates construtivos, as boas ideias e propõe reflexões em busca de movimentos transformadores. A NOOMag é uma plataforma de diálogo aberta a diferentes pessoas e opiniões.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/todomundoNOO</facebook>
+            <id>26</id>
+            <linha_fina>Estímulo às sinapses, expressa a ideia de intelecto, pensamento e inteligência.</linha_fina>
+            <localizacao>Nascimento no Rio de Janeiro, com cobertura prioritariamente no Rio, mas também São Paulo e Curitiba e especiais mundo afora em locais como Europa e Estados Unidos. </localizacao>
+            <logo>noo.jpg</logo>
+            <twitter>https://twitter.com/intent/follow</twitter>
+            <url>http://noo.com.br/</url>
+            <veiculo>Noo</veiculo>
+            <votos>80</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, crowdfunding, eventos presenciais e venda de camisetas.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Overloadr foi criado em 2014 para tratar videogames com seriedade jornalística e apresentar todo aspecto cultural que envolve a mídia. Por meio de um conteúdo diversificado e divertido, abrangendo vídeos, textos e podcasts, aborda os jogos em suas facetas culturais, artísticas e tecnológicas e o cenário que os cerca.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/overloadr</facebook>
+            <id>27</id>
+            <linha_fina>Tratar videogames com seriedade jornalística.</linha_fina>
+            <localizacao>De São Paulo, com cobertura mundial.</localizacao>
+            <logo>overloadr.jpg</logo>
+            <twitter>https://twitter.com/overloadrBR</twitter>
+            <url>http://overloadr.com.br/</url>
+            <veiculo>Overloadr</veiculo>
+            <votos>192</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Terra Sem Males é um projeto que pratica o jornalismo independente, com a colaboração de vários jornalistas, para a produção de reportagens e começou em 2015. A missão é dar voz e visibilidade às populações e povos deixados de lado pelos donos da mídia convencional. Luta pela democratização da comunicação, para que seja efetivamente uma concessão pública, e incentiva a criação de novos espaços de comunicadores e comunicadoras populares. Aposta na produção de reportagens, sob o ponto de vista dos trabalhadores, com a valorização das imagens como fonte de informação.&#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/terrasemmales/</facebook>
+            <id>28</id>
+            <linha_fina>Dar voz e visibilidade às populações e povos deixados de lado pelos donos da mídia convencional</linha_fina>
+            <localizacao>Curitiba, mas cobre o território nacional.</localizacao>
+            <logo>terrasemmales.jpg</logo>
+            <twitter>https://twitter.com/terrasemmales</twitter>
+            <url>http://www.terrasemmales.com.br/</url>
+            <veiculo>Terra sem Males</veiculo>
+            <votos>93</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>A plataforma, criada em 2015, é a primeira brasileira de informação produzida exclusivamente por mulheres mães. São cientistas, jornalistas e demais produtoras independentes de conteúdo que sabem de que tipo de informação as mulheres precisam. E o mais importante: informação não mercadológica, não financiada pelas grandes corporações. O funcionamento se baseia no financiamento coletivo de todos os textos. As leitoras e leitores acessam, escolhem o texto que querem apoiar por seu título e resumo e contribuem com o que querem. Atingido o valor mínimo, o texto é publicado com livre acesso a todos. Informação independente, por mulheres, para todos.&#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/cientistaqueviroumae</facebook>
+            <id>29</id>
+            <linha_fina>Primeira plataforma brasileira de informação produzida exclusivamente por mulheres mães</linha_fina>
+            <localizacao>Florianópolis, com cobertura nacional.</localizacao>
+            <logo>cientista_que_virou_mae.jpg</logo>
+            <twitter>https://twitter.com/cqvmae</twitter>
+            <url>http://www.cqvm.com.br/</url>
+            <veiculo>Cientista que virou mãe</veiculo>
+            <votos>127</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>O Farol Jornalismo é uma iniciativa de pesquisa e produção de novas formas de fazer jornalismo. É resultado da inquietação com as incertezas da profissão e uma maneira de ficar de olho nas mudanças do mercado. Um espaço de reflexão sobre o que anda sendo discutido no Brasil e no exterior, um ponto de referência para quem navega por esses mares fascinantes e traiçoeiros.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/faroljornalismo</facebook>
+            <id>30</id>
+            <linha_fina>Iniciativa de pesquisa e produção de novas formas de fazer jornalismo.</linha_fina>
+            <localizacao>De Porto Alegre, atento ao que acontece no mundo. </localizacao>
+            <logo>farol_jornalismo.jpg</logo>
+            <twitter>https://twitter.com/faroljornalismo</twitter>
+            <url>http://faroljornalismo.cc/</url>
+            <veiculo>Farol Jornalismo</veiculo>
+            <votos>114</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site e cursos jurídicos.</como_mantem>
+            <created>2016-01-30</created>
+            <descricao>Portal independente criado em 2014 que busca informação e artigos sobre justiça e poder, sempre com o compromisso com direitos humanos.&#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/justificando</facebook>
+            <id>31</id>
+            <linha_fina>Portal independente que busca informação e artigos sobre justiça e poder.&#xD;
+</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional.</localizacao>
+            <logo>justificando.jpg</logo>
+            <twitter>https://twitter.com/_Justificando</twitter>
+            <url>http://www.justificando.com/</url>
+            <veiculo>Justificando</veiculo>
+            <votos>230</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas, parcerias de conteúdo.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Plataforma multimídia criada em 2015 para verificação diária do discurso público. Acredita que o jornalismo diário carece de uma abordagem analítica baseada em fatos, e não apenas em opiniões. Acredita que a cobertura feita pela imprensa tradicional, de quem diz ser entusiasta, e não inimigo, carece de dados, mas exagera em versões. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/aosfatos.org</facebook>
+            <id>32</id>
+            <linha_fina>Verificação diária do discurso público.</linha_fina>
+            <localizacao>Brasília, Rio de Janeiro e São Paulo.</localizacao>
+            <logo>aos_fatos.jpg</logo>
+            <twitter>http://www.twitter.com/aosfatos</twitter>
+            <url>http://aosfatos.org</url>
+            <veiculo>Aos Fatos</veiculo>
+            <votos>163</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Recursos próprios.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>O Repórter de Rua é um coletivo independente de reportagem nascido em Mossoró, interior do Rio Grande do Norte, em 2013. O foco do trabalho da equipe é a reportagem de rua, aquela em que os repórteres “sujam o pé de lama” e sentem prazer nisso. Uma resposta à fuga do jornalismo narrativo tão em falta nos jornais. Todas as reportagens são produzidas em formato multimídia. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/ProjetoReporterdeRua/</facebook>
+            <id>34</id>
+            <linha_fina>Coletivo independente de reportagem nascido em Mossoró.</linha_fina>
+            <localizacao>O coletivo nasceu no município de Mossoró, interior do Rio Grande do Norte, e as pautas são predominantemente sobre realidades existentes nos municípios potiguares.</localizacao>
+            <logo>reporter_de_rua.jpg</logo>
+            <twitter />
+            <url>http://reporterderua.org/novosite/</url>
+            <veiculo>Repórter de Rua</veiculo>
+            <votos>67</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Investimento pessoal e familiar.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Plataforma especializada na produção de grandes reportagens. Busca produzir histórias que tenham vida, mas que dialoguem com temas relevantes da agenda brasileira e mundial. Brio quer estar sempre conectado com o que interessa, seja abordando ângulos nunca abordados, seja trazendo novos assuntos à tona, experimentando novas formas de narrativa e de complementos multimídia.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/briostories</facebook>
+            <id>35</id>
+            <linha_fina>Plataforma especializada na produção de grandes reportagens.</linha_fina>
+            <localizacao>O BRIO nasceu dos esforços de cinco sócios espalhados por Brasília, Rio de Janeiro, Paris, Washington e Nova York, além de terceiros contratados na Austrália, para o desenvolvimento do site. Mas foca a cobertura jornalística dentro do Brasil.</localizacao>
+            <logo>brio.jpg.jpg</logo>
+            <twitter />
+            <url>http://brio.media/</url>
+            <veiculo>BRIO</veiculo>
+            <votos>114</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Projeto de um instituto familiar.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>O Porvir é uma iniciativa de comunicação e mobilização social criada em 2012 que mapeia, produz, difunde e compartilha referências sobre inovações educacionais para inspirar melhorias na qualidade da educação brasileira e incentivar a mídia e a sociedade a compreender e demandar inovações educacionais.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Porvir/</facebook>
+            <id>36</id>
+            <linha_fina>Referências sobre inovações educacionais.</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>porvir.jpg</logo>
+            <twitter>http://www.twitter.com/porvir_</twitter>
+            <url>http://porvir.org/</url>
+            <veiculo>Porvir</veiculo>
+            <votos>95</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, fazendo projetos de custom publishing para marcas, fora do PdH – por meio do braço www.escribas.com. Oferece também cursos e palestras ocasionais.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Criado para produzir conteúdo benéfico, que contribua para o florescimento humano e para o cultivo de um masculino mais lúcido. É tempo de homens possíveis. Homens se interessam apenas por sexo, dinheiro, futebol e bebida? E se houvesse também um espaço para cultivar uma visão de mundo mais ampla, desafiar preconceitos, aprender a viver e se relacionar com mais satisfação? Esse é o Papo de Homem, um espaço criado em 2006, no qual todos são bem-vindos – independentemente de sexo, gênero, orientação sexual, credo ou raça.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/papodehomem</facebook>
+            <id>37</id>
+            <linha_fina>Conteúdo benéfico, que contribua para o florescimento humano e para o cultivo de um masculino mais lúcido.</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional.</localizacao>
+            <logo>papo_de_homem.jpg.jpg</logo>
+            <twitter>https://twitter.com/papodehomem</twitter>
+            <url>http://www.papodehomem.com.br/</url>
+            <veiculo>Papo de Homem</veiculo>
+            <votos>145</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, crowdfunding, doação de Pessoas Jurídicas.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>O Jornalismo B nasceu em 2007 como site, e em 2010 foi criado o Jornalismo B Impresso, jornal quinzenal. Embora o principal foco, no início do projeto, tenha sido a luta pela democratização da mídia, atualmente procura tratar de pautas variadas ligadas aos movimentos populares, especialmente em Porto Alegre, e às mobilizações da esquerda em geral.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>http://facebook.com/JornalismoB</facebook>
+            <id>38</id>
+            <linha_fina>Pautas variadas ligadas aos movimentos populares.</linha_fina>
+            <localizacao>Porto Alegre.</localizacao>
+            <logo>jornalismo_b.jpg</logo>
+            <twitter>https://twitter.com/jornalismob</twitter>
+            <url>http://www.jornalismob.com/</url>
+            <veiculo>Jornalismo B</veiculo>
+            <votos>71</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>A Oppina, criada em 2015, é uma plataforma de informação e conhecimento que reúne opiniões diversas – complementares, divergentes, opostas – a respeito de temas urgentes e polêmicos. Assuntos relevantes são tratados por especialistas e líderes em suas áreas, em vídeos de até 3 minutos, valorizando pontos de vista diferentes e o ambiente de respeito às diferenças. A equipe da Oppina faz a curadoria dos temas e cria, para cada um, uma pergunta central. Depois, seleciona seis especialistas e líderes em suas áreas, com opiniões e formações diversas, e os ajuda a construir seus roteiros. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Oppina-743598132434164/</facebook>
+            <id>39</id>
+            <linha_fina>Plataforma de informação e conhecimento que reúne opiniões diversas a respeito de temas urgentes e polêmicos.</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional.</localizacao>
+            <logo>Oppina.jpg</logo>
+            <twitter>https://twitter.com/Oppina</twitter>
+            <url>https://www.youtube.com/channel/UCkNtoGhF7k56oJH2fqZixKA</url>
+            <veiculo>Oppina</veiculo>
+            <votos>37</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Quer fugir da cobertura que acompanha somente o ritmo das redes sociais. E quer mostrar novas histórias e novas formas de contá-las – pode ser em áudio, em quadrinhos, em vídeo. Ao mesmo tempo, como o nome sugere, não quer ser sisudo nem cabeçudo.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/siteriscafaca/</facebook>
+            <id>40</id>
+            <linha_fina>Mostrar novas histórias e novas formas de contá-las.</linha_fina>
+            <localizacao>São Paulo, mas cobre o Brasil.</localizacao>
+            <logo>risca_faca.jpg</logo>
+            <twitter>https://twitter.com/_riscafaca</twitter>
+            <url>http://riscafaca.com.br/</url>
+            <veiculo>Risca Faca</veiculo>
+            <votos>134</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Agência de notícias, informação e inteligência sobre as periferias de São Paulo.</como_mantem>
+            <created>0000-00-00</created>
+            <descricao>Em 2010, o blog Mural, o primeiro blog de notícias das periferias de São Paulo, nasceu como um esforço coletivo de cerca de 20 pessoas para minimizar lacunas de informação. Hospedado desde seu início entre a lista de blogs da Folha de S.Paulo, troca conteúdo exclusivo de áreas invisíveis à redação do jornal e aos seus leitores pelo direito de estar ali. A Agência Mural é o resultado natural dessa história e de sua evolução. É uma agência de notícias, de informação e de inteligência sobre as periferias de São Paulo que entende como essa área geográfica estendida além do “centro” do poder político-econômico paulistano e que alcança as cidades da região metropolitana.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/agenciamural</facebook>
+            <id>41</id>
+            <linha_fina>Agência de jornalismo das periferias</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>agencia_mural.jpg</logo>
+            <twitter>https://twitter.com/agmural</twitter>
+            <url>http://agenciamural.com.br/</url>
+            <veiculo>Agência Mural</veiculo>
+            <votos>99</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, parceria com portal de internet; venda e assinatura de revista; publicidade na revista; realização de palestras; organização de um grande evento anual (Prêmio Congresso em Foco).</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>O Congresso em Foco é o primeiro veículo online especializado na cobertura do Congresso Nacional, criado em 2004. A missão é acompanhar o Congresso Nacional e a política com o propósito de fornecer à sociedade, de forma inovadora, interativa, democrática e transparente, informações confiáveis e relevantes que permitam aos brasileiros exercer plenamente a cidadania.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/congressoemfoco</facebook>
+            <id>42</id>
+            <linha_fina>Primeiro veículo online especializado na cobertura do Congresso Nacional.</linha_fina>
+            <localizacao>Brasília.</localizacao>
+            <logo>congresso_em_foco.jpg</logo>
+            <twitter>https://twitter.com/congemfoco</twitter>
+            <url>http://congressoemfoco.uol.com.br/</url>
+            <veiculo>Congresso em Foco</veiculo>
+            <votos>159</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Fazem parte da pauta do Conexão Planeta temas como preservação da natureza, proteção aos animais e ecossistemas, mudanças climáticas, redução da desigualdade, inclusão social e econômica, consumo consciente. No radar estão constantemente em foco pautas a respeito de inovação, mobilidade urbana, cidades mais humanas, estilo de vida, casa sustentável, simplicidade voluntária, biodiversidade e alimentação saudável.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/conexaoplaneta</facebook>
+            <id>43</id>
+            <linha_fina>Preservação da natureza, redução da desigualdade, inclusão social e econômica, consumo consciente</linha_fina>
+            <localizacao>A iniciativa nasceu em São Paulo, mas tem cobertura nacional e internacional.</localizacao>
+            <logo>conexao_planeta.png.jpg</logo>
+            <twitter>https://twitter.com/conexaoplaneta</twitter>
+            <url>http://conexaoplaneta.com.br/</url>
+            <veiculo>Conexão Planeta</veiculo>
+            <votos>399</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Dados e notícias sobre a Amazônia.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>InfoAmazônia agrega dados e notícias sobre a Amazônia, a maior floresta tropical contínua do planeta. O projeto criado em 2012 é sustentado por uma rede de organizações e jornalistas que oferecem atualizações constantes dos nove países da região. As bases de dados compartilhadas por InfoAmazônia estarão sempre disponíveis para download e serão renovadas com frequência. O cruzamento das notícias com os dados pretende melhorar a percepção sobre os desafios para a conservação da floresta.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/siteinfoamazonia</facebook>
+            <id>44</id>
+            <linha_fina>Doação de Pessoas Jurídicas, consultoria.</linha_fina>
+            <localizacao>São Paulo, cobre Amazônia.</localizacao>
+            <logo>InfoAmazonia.jpg</logo>
+            <twitter>https://twitter.com/infoamazonia</twitter>
+            <url>http://infoamazonia.org/</url>
+            <veiculo>InfoAmazônia</veiculo>
+            <votos>64</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>O Fluxo é uma redação, um estúdio, um lugar para encontros e reuniões no centro de São Paulo. Um território criado em 2014 onde repórteres, cinegrafistas, fotógrafos, editores e artistas podem explorar novas possibilidades para o jornalismo. Na linguagem, no conteúdo e nas relações entre comunicadores e público. Produz streamings, reportagens, artigos, entrevistas em texto e vídeo, podcasts, publicações. Oferece ainda eventos, cursos, festas e encontros abertos ao público. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/estudiofluxo</facebook>
+            <id>45</id>
+            <linha_fina>Território onde repórteres, cinegrafistas, fotógrafos, editores e artistas podem explorar novas possibilidades para o jornalismo</linha_fina>
+            <localizacao>São Paulo. A cobertura atual se dá principalmente em São Paulo, mas aborda Rio de Janeiro e Minas Gerais.</localizacao>
+            <logo>fluxo.jpg</logo>
+            <twitter />
+            <url>http://www.fluxo.net/</url>
+            <veiculo>Fluxo</veiculo>
+            <votos>160</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Por assinatura.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Nexo é um jornal digital criado em 2015 para quem busca explicações precisas e interpretações equilibradas sobre os principais fatos do Brasil e do mundo. Seu compromisso é oferecer aos leitores informações contextualizadas, com uma abordagem original. Para o Nexo, apresentar temas relevantes de forma clara, plural e independente é essencial para qualificar o debate público.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/nexojornal</facebook>
+            <id>46</id>
+            <linha_fina>Informações contextualizadas, com uma abordagem original.&#xD;
+</linha_fina>
+            <localizacao>São Paulo e Brasília, com cobertura nacional e internacional de alguns temas.</localizacao>
+            <logo>nexo.jpg</logo>
+            <twitter>https://twitter.com/nexojornal</twitter>
+            <url>https://www.nexojornal.com.br/</url>
+            <veiculo>Nexo</veiculo>
+            <votos>356</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Doação de Pessoas Jurídicas, doações de Pessoas Físicas, recursos próprios. </como_mantem>
+            <created>2016-02-14</created>
+            <descricao>A agência Amazônia Real nasceu em 2013 e tem o objetivo de dar oportunidade de direitos e acesso à mídia à população amazônica, inclusive as mulheres indígenas e não indígenas, produzindo e difundindo informação de qualidade e profunda na própria região por meio dos seguintes eixos temáticos: meio ambiente, povos indígenas, povos tradicionais, conflitos agrários, direitos humanos e contas públicas.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/amazoniareal/</facebook>
+            <id>47</id>
+            <linha_fina>Oportunidade de direitos e acesso à mídia à população amazônica.</linha_fina>
+            <localizacao>Manaus (Amazonas), com cobertura em Rondônia, Roraima, Pará, Acre, Amapá e Maranhão.</localizacao>
+            <logo>amazonia_real.jpg</logo>
+            <twitter>https://twitter.com/amazonia_real</twitter>
+            <url>http://amazoniareal.com.br/</url>
+            <veiculo>Amazônia Real</veiculo>
+            <votos>76</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, crowdfunding.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Lançado em 2009, o site Outras Palavras tornou-se uma referência importante na galáxia da chamada “comunicação compartilhada” ou da “mídia livre”, abordando uma temática pouco presente nesse universo: o exame crítico da globalização, as novas culturas políticas da autonomia e os movimentos de ocupação das redes e das ruas.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>http://facebook.com/outraspalavras</facebook>
+            <id>48</id>
+            <linha_fina>Referência importante na galáxia da chamada “comunicação compartilhada”.</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>outraspalavras.jpg</logo>
+            <twitter>http://www.twitter.com/outraspalavrass</twitter>
+            <url>http://outraspalavras.net/</url>
+            <veiculo>Outras Palavras</veiculo>
+            <votos>213</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Formado em 2014, o coletivo Candeia tem como missão realizar reportagens e produtos audiovisuais sobre direitos humanos e política. Além disso, mantém um projeto chamado Expressão Comunitária, que fornece oficinas de introdução ao jornalismo e audiovisual independentes para jovens moradores da periferia que se interessam por comunicação.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>http://facebook.com/Candeiablog</facebook>
+            <id>49</id>
+            <linha_fina>Reportagens e produtos audiovisuais sobre direitos humanos e política.&#xD;
+</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>candeia.jpg</logo>
+            <twitter>https://twitter.com/candeiajor</twitter>
+            <url>http://www.candeia.jor.br/</url>
+            <veiculo>Candeia</veiculo>
+            <votos>61</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Uma rede de comunicação independente criada em 2015 que tem como objetivo disputar e acirrar o debate sobre a democratização dos veículos de comunicação, levantando a bandeira de uma terceira via ao jornalismo de hoje. É preciso tratar com honestidade e transparência a informação, deixando de lado a preocupação pelo lucro e os interesses políticos por trás de cada notícia. </descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/democratizemidia</facebook>
+            <id>50</id>
+            <linha_fina>Disputar e acirrar o debate sobre a democratização dos veículos de comunicação.</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>democratize.jpg</logo>
+            <twitter />
+            <url>https://www.facebook.com/democratizemidia</url>
+            <veiculo>Democratize</veiculo>
+            <votos>101</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Coletivo de jornalismo fundado em 2014 para provocar um debate público amplo e plural que construa a transformação da realidade. O trabalho envolve luta pela democratização da mídia, produção de conteúdo jornalístico que dispute a narrativa da Grande Florianópolis e formação de uma rede com outras iniciativas de mídia contra-hegemônica.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/midiamaruim/</facebook>
+            <id>51</id>
+            <linha_fina>Produção de conteúdo jornalístico que disputa a narrativa da Grande Florianópolis.</linha_fina>
+            <localizacao>Florianópolis.</localizacao>
+            <logo>maruim.jpg</logo>
+            <twitter />
+            <url>https://www.facebook.com/midiamaruim/</url>
+            <veiculo>Maruim</veiculo>
+            <votos>86</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-14</created>
+            <descricao>Coletivo de jornalistas, economistas, historiadores e advogados criado em 2011 com o intuito de produzir informação contra-hegemônica.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/AgenciaAnota/</facebook>
+            <id>52</id>
+            <linha_fina>Produzir informação contra-hegemônica.</linha_fina>
+            <localizacao>Nascida em Niterói, cobre Rio, Niterói, São Gonçalo, Belém, Uberaba e Brasília.</localizacao>
+            <logo>agencia_anota.jpg</logo>
+            <twitter />
+            <url>https://www.facebook.com/AgenciaAnota/</url>
+            <veiculo>Agência Anota</veiculo>
+            <votos>45</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>O Estopim é uma revista eletrônica criada em 2011 cujo conteúdo é produzido por muitas mãos que abraçam o espírito crítico, têm um quê de liberdade literária e buscam sempre uma visão alternativa de quaisquer acontecimentos.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/estopim.periodico/</facebook>
+            <id>53</id>
+            <linha_fina>Espírito crítico com um quê de liberdade literária.</linha_fina>
+            <localizacao>A criação da iniciativa se deu em Palhoça, município próximo à grande Florianópolis (SC). A cobertura da iniciativa é a capital e os municípios adjacentes.</localizacao>
+            <logo>estopim.jpg</logo>
+            <twitter />
+            <url>http://www.estopimcoletivo.com</url>
+            <veiculo>Estopim</veiculo>
+            <votos>59</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Editais.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>O coletivo Nós, Mulheres da Periferia existe desde 2014 e tem como principal objetivo contribuir para o empoderamento das mulheres da periferia de São Paulo, promovendo espaços de reflexão, debate, informação, troca de conhecimento, experiências e visibilidade sobre seus protagonismos, vivências, histórias e dilemas.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/nosmulheresdaperiferia/</facebook>
+            <id>54</id>
+            <linha_fina>Contribui para o empoderamento das mulheres da periferia de São Paulo.</linha_fina>
+            <localizacao>São Paulo.</localizacao>
+            <logo>nos_mulheres_da_periferia.jpg</logo>
+            <twitter />
+            <url>http://nosmulheresdaperiferia.com.br/</url>
+            <veiculo>Nós, Mulheres de Periferia</veiculo>
+            <votos>117</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Por meio de job freelancers.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Estabelecida em Porto Alegre, Rio Grande do Sul, em 2011, a Acurácia fotojornalismo tem como compromisso reportar com credibilidade os mais relevantes eventos da região Sul do país, trazendo à tona fatos importantes para a sociedade gaúcha e brasileira. Abrange todos os patamares da notícia, utilizando eticamente o discurso fotográfico para narrar os fatos de forma averiguada e criativa.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Acuraciafotojo</facebook>
+            <id>55</id>
+            <linha_fina>Agência de fotojornalismo de Porto Alegre</linha_fina>
+            <localizacao>Porto Alegre, cobre Rio Grande do Sul.</localizacao>
+            <logo>acuracia.png.jpg</logo>
+            <twitter>http://www.twitter.com/Acuraciafoto</twitter>
+            <url>http://www.acuracia.com.br/</url>
+            <veiculo>Acurácia</veiculo>
+            <votos>52</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>A Poleiro preza pela produção de conteúdo aprofundado, na contramão da tendência geracional de produzir e consumir de maneira rápida e descartável. Auxilia jovens jornalistas a construir reportagens dando suporte tanto na apuração quanto na construção de texto.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/revistapoleiro</facebook>
+            <id>56</id>
+            <linha_fina>Na contramão da tendência geracional de produzir e consumir de maneira rápida e descartável.</linha_fina>
+            <localizacao>São Paulo e Rio de Janeiro.</localizacao>
+            <logo>poleiro.jpg</logo>
+            <twitter>https://twitter.com/revistapoleiro</twitter>
+            <url>https://revistapoleiro.com.br/</url>
+            <veiculo>Poleiro</veiculo>
+            <votos>64</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, financiamento de fundações, prêmios e projetos específicos.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>A Mídia Ninja é uma rede de coletivos e comunicadores que trabalha na produção e difusão de conteúdos, disputando a partir das redes novas possibilidades narrativas, seja na experimentação estética ou nas informações geradas. Desde sua explosão com os protestos de 2013, a rede tem caráter bem difuso, com representantes e entusiastas que colaboram na apuração de dados e na gestão política da rede.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/midiaNINJA/</facebook>
+            <id>57</id>
+            <linha_fina>Rede de coletivos e comunicadores que trabalha na produção e difusão de conteúdos, disputando a partir das redes novas possibilidades narrativas</linha_fina>
+            <localizacao>A rede Ninja nasce a partir dos coletivos Fora do Eixo, já distribuídos por aproximadamente cem cidades, com atuação especial em territórios do Brasil profundo.</localizacao>
+            <logo>ninja.jpg</logo>
+            <twitter>https://twitter.com/midianinja</twitter>
+            <url>https://www.facebook.com/midiaNINJA/</url>
+            <veiculo>Mídia Ninja</veiculo>
+            <votos>223</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Coletivo de midiativismo goianiense criado em 2014.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook />
+            <id>58</id>
+            <linha_fina>Coletivo de midiativismo goianiense.</linha_fina>
+            <localizacao>Goiânia.</localizacao>
+            <logo>desneuralizador.jpg</logo>
+            <twitter />
+            <url>https://www.youtube.com/channel/UCMFQDHdHS51h5RzQnfjWkNg</url>
+            <veiculo>Desneuralizador</veiculo>
+            <votos>50</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Doação de Pessoas Jurídicas.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Dedica-se à cobertura de pautas sobre o meio ambiente desde 2004. Sua razão de ser é a conservação da natureza; treina e propicia experiência a jovens (ou nem tanto) escritores, fotógrafos e cinegrafistas vocacionados à cobertura ambiental, sejam eles jornalistas por formação ou não. O Eco é uma escola que espera impulsionar a carreira de profissionais brilhantes, motivados e espalhados por todos os cantos do Brasil.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/siteoeco</facebook>
+            <id>59</id>
+            <linha_fina>Cobertura de pautas sobre o meio ambiente</linha_fina>
+            <localizacao>A proposta sempre foi cobrir todo o território brasileiro, além da cobertura internacional de pautas sobre o meio ambiente.</localizacao>
+            <logo>oeco.jpg</logo>
+            <twitter>https://twitter.com/o_eco</twitter>
+            <url>http://www.oeco.org.br/</url>
+            <veiculo>O Eco</veiculo>
+            <votos>73</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, assinaturas, newsletters de conteúdo especializado, investimento privado.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Site que visa produzir informação de qualidade para tornar o universo jurídico mais transparente e o ambiente de negócios, mais previsível. Existe desde 2014.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/jotajustica</facebook>
+            <id>60</id>
+            <linha_fina>Tornar o universo jurídico mais transparente e o ambiente de negócios, mais previsível.</linha_fina>
+            <localizacao>Nasceu em Brasília (DF). Tem foco especial em Brasília, São Paulo e Rio de Janeiro.</localizacao>
+            <logo>jota.jpg</logo>
+            <twitter>https://twitter.com/jotainfo</twitter>
+            <url>http://www.jota.info/</url>
+            <veiculo>Jota</veiculo>
+            <votos>98</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site; os editores e idealizadores arcam com despesas.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Portal de jornalismo cultural que tem como proposta fazer uma leitura mais reflexiva e abrangente das manifestações culturais que nos circundam.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/aescotilha</facebook>
+            <id>61</id>
+            <linha_fina>Ampliar a visão sobre a cultura a partir de diferentes olhares.</linha_fina>
+            <localizacao>Projeto surgiu em Curitiba, Paraná. Hoje, também cobre atividades culturais em São Paulo, Campinas, Porto Alegre e Rio de Janeiro.</localizacao>
+            <logo>a_escotilha.jpg</logo>
+            <twitter>https://twitter.com/aescotilha</twitter>
+            <url>http://www.aescotilha.com.br/</url>
+            <veiculo>A Escotilha</veiculo>
+            <votos>508</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, crowdfunding, doação de Pessoas Jurídicas, doações de Pessoas Físicas, grants e doações de entidades nacionais e internacionais.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>O jornalismo da Repórter Brasil tem experiência em monitorar os problemas trabalhistas e impactos socioambientais dos maiores setores econômicos do país. Um dos diferenciais é a habilidade de rastrear cadeias produtivas de ponta a ponta: revelando a ligação entre violações de direitos humanos e ambientais na base da produção e as grandes marcas nacionais e internacionais responsáveis por isso.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/ONGReporterBrasil/</facebook>
+            <id>62</id>
+            <linha_fina>Monitorar os problemas trabalhistas e impactos socioambientais dos maiores setores econômicos do país</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional.</localizacao>
+            <logo>reporter_brasil.jpg</logo>
+            <twitter>https://twitter.com/reporterb/</twitter>
+            <url>http://reporterbrasil.org.br/</url>
+            <veiculo>Repórter Brasil</veiculo>
+            <votos>180</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Criada em 2013, a iniciativa dá visibilidade a movimentos, causas e insurgências populares com recortes discursivos diferentes dos que a mídia corporativa relata.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/RioNaRua/</facebook>
+            <id>63</id>
+            <linha_fina>Dá visibilidade a movimentos, causas e insurgências populares.</linha_fina>
+            <localizacao>Rio de Janeiro.</localizacao>
+            <logo>rio_na_rua.jpg</logo>
+            <twitter>https://twitter.com/rjnarua</twitter>
+            <url>http://www.rionarua.org/</url>
+            <veiculo>Rio na Rua</veiculo>
+            <votos>40</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>O Move nasceu de maneira despretensiosa em 2007, com pessoas que gostam de escrever sobre música. Hoje o site busca escrever mais sobre artistas nacionais e internacionais que não têm grande espaço na mídia tradicional.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/movethatjukebox</facebook>
+            <id>64</id>
+            <linha_fina>Fala de música de maneira despretensiosa.</linha_fina>
+            <localizacao>São Paulo, cobre São Paulo e Rio.</localizacao>
+            <logo>move_that_jukebox.jpg</logo>
+            <twitter>https://twitter.com/movethatjukebox</twitter>
+            <url>http://movethatjukebox.com/</url>
+            <veiculo>Move that Jokebox</veiculo>
+            <votos>34</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Veículo de comunicação criado em 2015 para as pessoas que se importam com as cidades onde vivem e querem melhorar os lugares que amam. As cidades estão mais inteligentes porque as pessoas estão mais inteligentes, com acesso a mais informação e tecnologia. Mas uma boa parte dessa inteligência ainda não está sendo usada nos lugares onde se passa a maior parte dos dias. A missão é contribuir, por meio de histórias bem contadas, para reunir essas pessoas.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/umaoutracidade</facebook>
+            <id>65</id>
+            <linha_fina>Para as pessoas que se importam com as cidades onde vivem e querem melhorar os lugares que amam.</linha_fina>
+            <localizacao>Nasceu em São Paulo, mas pretende cobrir questões urbanas das cidades brasileiras e de outros países.</localizacao>
+            <logo>outra_cidade.jpg</logo>
+            <twitter>https://twitter.com/umaoutracidade</twitter>
+            <url>http://outracidade.com.br/</url>
+            <veiculo>Outra Cidade</veiculo>
+            <votos>70</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, crowdfunding, apoio de movimentos sociais.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Site de notícias e opinião organizado em torno de dois jornalistas de esquerda, construído a partir da interação com leitores e comentaristas.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Viomundo-109725279084911/</facebook>
+            <id>66</id>
+            <linha_fina>Site de notícias e opinião.</linha_fina>
+            <localizacao>Nasceu em Nova York; cobertura focada em direitos humanos, movimentos sociais e política no Brasil.</localizacao>
+            <logo>viomundo.jpg</logo>
+            <twitter>https://twitter.com/viomundo</twitter>
+            <url>http://www.viomundo.com.br/</url>
+            <veiculo>Viomundo</veiculo>
+            <votos>145</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, doação de Pessoas Jurídicas, patrocínio de empresas.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>O EcoDesenvolvimento.org, também conhecido como EcoD, é uma plataforma de comunicação online especializado em sustentabilidade. A missão é produzir, integrar e promover conteúdos relevantes para a conscientização e mobilização da sociedade em prol do desenvolvimento sustentável. As atividades foram iniciadas em novembro de 2008.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/ecodesenvolvimento.org</facebook>
+            <id>67</id>
+            <linha_fina>Plataforma de comunicação online especializado em sustentabilidade.</linha_fina>
+            <localizacao>Salvador. Cobertura de âmbito nacional e internacional.</localizacao>
+            <logo>ecodesenvolvimento.jpg</logo>
+            <twitter>https://twitter.com/ecodorg</twitter>
+            <url>http://www.ecod.org.br/</url>
+            <veiculo>Ecodesenvolvimento</veiculo>
+            <votos>55</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site, doação de Pessoas Jurídicas, prestação de serviços e recursos de editais.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Coletivo de comunicadores comprometidos com a construção de alternativas que fortaleçam a cultura e o jornalismo independente e enriqueçam o debate sobre temas de interesse público. Por meio de um trabalho autoral, se aproxima de movimentos e organizações que entendem a cultura como um direito humano e a comunicação como uma ação transformadora. Nasceu em 2004.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/coletivocatarse</facebook>
+            <id>68</id>
+            <linha_fina>Coletivo de comunicadores comprometidos com a construção de alternativas que fortaleçam a cultura e o jornalismo independente e enriqueçam o debate sobre temas de interesse público.</linha_fina>
+            <localizacao>Nasceu em Porto Alegre e hoje trabalha em diversas cidades, principalmente nos estados do Rio Grande do Sul e Bahia.</localizacao>
+            <logo>coletivo_catarse.jpg</logo>
+            <twitter>https://twitter.com/coletivocatarse</twitter>
+            <url>http://coletivocatarse.com.br/</url>
+            <veiculo>Coletivo Catarse</veiculo>
+            <votos>105</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Coletivo de jornalismo cultural e alternativo composto por cerca de vinte pessoas que trabalham de forma colaborativa. Procura relacionar as diversas formas de expressão artística com temas pertinentes à realidade e relativos aos direitos humanos.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/NonadaJor</facebook>
+            <id>69</id>
+            <linha_fina>Coletivo de jornalismo cultural e alternativo.</linha_fina>
+            <localizacao>O site nasceu em Porto Alegre, e sua cobertura prioriza essa região, mas também tem espaço para conteúdos universais.</localizacao>
+            <logo>nonada.jpg</logo>
+            <twitter>https://twitter.com/nonadatravessia</twitter>
+            <url>http://www.nonada.com.br/</url>
+            <veiculo>Nonada</veiculo>
+            <votos>116</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Faz reportagem de qualidade sobre futebol desde 2014.</descricao>
+            <email>bobgarden@gmail.com</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>http://www.facebook.com/PunteroIzquierdoBr/</facebook>
+            <id>70</id>
+            <linha_fina>Reportagem de qualidade sobre futebol.</linha_fina>
+            <localizacao>Porto Alegre.</localizacao>
+            <logo>puntero_izquierdo.jpg</logo>
+            <twitter>http://twitter.com/punterobr</twitter>
+            <url>medium.com/puntero-izquierdo</url>
+            <veiculo>Puntero Izquierdo&#xD;
+</veiculo>
+            <votos>75</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Projetos em parceria e financiamento de bolsas de estudo.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Agência-escola de jornalismo para jovens de 14 a 21 anos que, a partir da sua produção independente, se transformam e impactam o mundo. Criada em 2011, oferece formação em jornalismo; lançou em 2015 a primeira plataforma de ensino de jornalismo gratuita do país, a www.escoladejornalismo.org. Os jovens investigam temas de seu interesse e publicam reportagens em vários veículos.&#xD;
+</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/enoisconteudo/</facebook>
+            <id>71</id>
+            <linha_fina>Agência escola de jornalismo que forma jovens e publica reportagens sobre temas cabeludos</linha_fina>
+            <localizacao>Nasceu na periferia de São Paulo. Atualmente tem rede nos estados de RJ, RS, PA, CE, GO e PE.</localizacao>
+            <logo>enois.jpg</logo>
+            <twitter />
+            <url>http://www.enoisconteudo.com.br/</url>
+            <veiculo>Énois</veiculo>
+            <votos>80</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Crowdfunding, doação de Pessoas Jurídicas.</como_mantem>
+            <created>2016-02-16</created>
+            <descricao>Projeto feminista criado em abril de 2013. O objetivo é criar conteúdo que reflita a complexidade das mulheres e as tratem com seriedade e como pessoas capazes de definir os rumos do mundo. A missão é empoderar mulheres por meio da informação e retratar as ações delas em locais onde a voz dominante não acredita existir nenhuma mulher.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/thinkolga</facebook>
+            <id>72</id>
+            <linha_fina>Criar conteúdo que reflita a complexidade das mulheres e as tratem com seriedade e como pessoas capazes de definir os rumos do mundo.</linha_fina>
+            <localizacao>São Paulo, com pretensão de cobertura nacional. A cobertura é diferente porque debate questões de gênero e nem sempre os artigos são sobre casos pontuais.</localizacao>
+            <logo>think_olga.jpg</logo>
+            <twitter>https://twitter.com/thinkolga</twitter>
+            <url>http://thinkolga.com/</url>
+            <veiculo>Think Olga</veiculo>
+            <votos>190</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-17</created>
+            <descricao>O Alma Preta noticia e esmiúça desde 2015 a questão racial brasileira, posicionando-se como veículo de mídia negra. Por meio de reportagens e notícias, apresenta dados sobre a realidade do país sob a ótica negra, além de apontar as possibilidades, causas e consequências de fatos do cotidiano político, econômico e cultural. Com sua rede de opiniões de intelectuais e ativistas negros, O Quilombo, mostra um panorama do que pensam negros e negras no Brasil.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Alma-Preta-1557313474531421/</facebook>
+            <id>73</id>
+            <linha_fina>Noticia e esmiúça a questão racial no Brasil.</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional.</localizacao>
+            <logo>alma_preta.jpg</logo>
+            <twitter>https://twitter.com/Alma_Preta</twitter>
+            <url>http://almapreta.com/</url>
+            <veiculo>Alma Preta</veiculo>
+            <votos>87</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-17</created>
+            <descricao>Coletivo de mídia independente que visa disputar a narrativa sobre o Complexo do Alemão.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/ColetivoPapoReto/</facebook>
+            <id>74</id>
+            <linha_fina>Disputa a narrativa sobre o Complexo do Alemão.</linha_fina>
+            <localizacao>Rio de Janeiro, cobre Rio de Janeiro.</localizacao>
+            <logo>papo_reto.jpg</logo>
+            <twitter />
+            <url>https://100ko.wordpress.com/</url>
+            <veiculo>Papo Reto</veiculo>
+            <votos>73</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém.</como_mantem>
+            <created>2016-02-17</created>
+            <descricao>Plataforma de pesquisa e curadoria dedicada a mapear processos criativos que&#xD;
+caminham pela nossa cultura. A missão é registrar, salvaguardar e difundir histórias de músicos, fotógrafos, cineastas, escritores e artistas que buscam em seu cotidiano, sua história de vida e família referência para projetos inspiradores.</descricao>
+            <email />
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/andarilha</facebook>
+            <id>75</id>
+            <linha_fina>Plataforma de pesquisa e curadoria dedicada a mapear processos criativos que caminham pela cultura brasileira.</linha_fina>
+            <localizacao>O Andarilha começou suas andanças pelo Brasil – MT, AL, SP, RJ e, depois, MG. Atualmente continua caminhando pelo país através também de sua Rede Andarilha, em PE, PA, RJ, DF, SP, AL.</localizacao>
+            <logo>andarilha.jpg</logo>
+            <twitter>https://twitter.com/souandarilha</twitter>
+            <url>http://projetoandarilha.com/</url>
+            <veiculo>Projeto Andarilha</veiculo>
+            <votos>80</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Publicidade no site.</como_mantem>
+            <created>2016-03-06</created>
+            <descricao>Criado em 2008, é um veículo especializado na cobertura do noticiário internacional de política, economia e cultura, partindo de uma perspectiva latino-americana.&#xD;
+&#xD;
+Desde o início, o projeto aposta em reportagens especiais aprofundadas sobre os países da América Latina e também de outros lugares do planeta. Opera Mundi assina e utiliza criticamente os serviços das agências EFE, Ansa, Telesur e Prensa Latina. Em São Paulo, uma equipe de jornalistas organiza a pauta e a edição desses materiais. Desde 2014, incorporou a sua produção a edição online de Revista Samuel (www.revistasamuel.com.br), um projeto inspirado nos projetos Utne Reader e Courier International que seleciona, diariamente, textos produzidos por publicações independentes de todo o planeta.</descricao>
+            <email>contato.publica@gmail.com</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/operamundi.br/</facebook>
+            <id>319</id>
+            <linha_fina>Veículo especializado na cobertura do noticiário internacional de política, economia e cultura, partindo de uma perspectiva latino-americana.</linha_fina>
+            <localizacao>São Paulo, com cobertura nacional e internacional.</localizacao>
+            <logo>319-opera-mundi.jpg</logo>
+            <twitter>https://twitter.com/operamundi</twitter>
+            <url>http://operamundi.uol.com.br/</url>
+            <veiculo>Opera Mundi</veiculo>
+            <votos>96</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Financiamos a primeira etapa do portal através do crowdfunding e agora apostamos no sistema de doações/assinaturas; nos leilões virtuais de obra de arte e discutimos um plano de publicidade. Também planejamos outras campanhas de financiamento coletivo para 2017 e estamos na construção da Associação Catarinas.</como_mantem>
+            <created>0000-00-00</created>
+            <descricao>O Portal de Notícias Catarinas é um veículo de jornalismo especializado em gênero. A linha editorial de Catarinas se encontra entre o jornalismo como um direito e os direitos humanos como uma premissa básica para a produção do jornalismo. Também se identifica como feminista, pretendendo o diálogo com as diversas linhas teóricas e políticas do feminismo, mediando suas perspectivas diante da realidade. Catarinas se coloca com uma unidade ativista do jornalismo enquanto direito e do feminismo enquanto estratégia de ação para a superação desta sociedade que ainda reserva lugares para as mulheres.&lt;br&gt;&#xD;
+&#xD;
+É um canal de comunicação livre, que abrange o jornalismo especializado e de opinião, apresentado ao público nos mais diferentes formatos e/ou gêneros textuais, a partir das convergências possibilitadas pelo jornalismo na web. Trabalhamos em três frentes relativas ao conteúdo: 1) Na produção jornalística própria, realizando reportagens, entrevistas e coberturas; 2) Na curadoria de informação diária, coletando o que tem sido produzido sobre gênero, feminismo, direitos humanos das mulheres, sexualidade, etc. 3) Na observação dos debates públicos sobre o tema, principalmente no monitoramento da disseminação de ideias pelos veículos de comunicação catarinenses no que diz respeito às questões de gênero.</descricao>
+            <email>portalcatarinas@gmail.com</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>www.facebook.com/portalcatarinas</facebook>
+            <id>421</id>
+            <linha_fina>Produzir conteúdo jornalístico de qualidade, com perspectiva feminista, na área de direitos humanos e enfoque no direito das mulheres.</linha_fina>
+            <localizacao>Florianópolis/SC</localizacao>
+            <logo>catarina_alta_jornalismo.jpg</logo>
+            <twitter>www.twitter.com/portalcatarinas</twitter>
+            <url>http://catarinas.info/</url>
+            <veiculo>Portal de Notícias Catarinas</veiculo>
+            <votos>18</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Projetos/Editais e mantenedores</como_mantem>
+            <created>2016-10-24</created>
+            <descricao>A ANF â€“ AgÃªncia de NotÃ­cias das Favelas foi criada para atender a demanda da imprensa e da sociedade que precisavam obter informaÃ§Ãµes sobre que acontecia no contexto das favelas do Rio de Janeiro. Fundada pelo jornalista AndrÃ© Fernandes, em janeiro de 2001, foi logo reconhecida pela Reuters como a primeira agÃªncia de notÃ­cias de favelas do mundo. Em 2005, a ANF foi instituÃ­da como uma ONG para levar adiante a luta pela democratizaÃ§Ã£o da informaÃ§Ã£o da favela para o mundo, tendo como protagonistas seus prÃ³prios moradores.</descricao>
+            <email>contato@anf.org.br</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/agenciadenoticiasdasfavelas/</facebook>
+            <id>422</id>
+            <linha_fina>Nossa missÃ£o Ã© estimular a integraÃ§Ã£o e a troca de informaÃ§Ãµes entre as favelas, com a finalidade de melhorar, por meio de formaÃ§Ã£o de uma grande rede de colaboradores, a qualidade de vida do povo.</linha_fina>
+            <localizacao>Rio de Janeiro. Cobertura: favelas do Brasil e exterior</localizacao>
+            <logo>422-logo_anf.jpg</logo>
+            <twitter>https://www.twitter.com/noticiasfavelas</twitter>
+            <url>www.anf.org.br</url>
+            <veiculo>ANF - AgÃªncia de NotÃ­cias das Favelas</veiculo>
+            <votos>8</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Ainda não se mantém</como_mantem>
+            <created>2016-10-24</created>
+            <descricao>O Portal Outros 400 é um espaço virtual de produção de notícias e conteúdos de comunicação. São o seu foco de atuação os fatos e criações referentes aos 400 anos de Belém, o fomento do debate público sobre os rumos da cidade em todos seus aspectos e abordagens da história de nossa capital a partir de uma visão crítica da realidade. Mais que respeito ? diversidade, levantamos as diferenças como bandeira. Colocamos em pauta grupos e povos que vem historicamente sendo marginalizados: mulheres, negros, indígenas, ribeirinhos, homossexuais e tantos outros grupamentos que são silenciados diariamente.</descricao>
+            <email>portaloutros400@gmail.com</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/Outros400</facebook>
+            <id>423</id>
+            <linha_fina>A missão do Portal Outros400 é fomentar o debate público sobre os rumos da cidade de Belém em todos seus aspectos: políticos, ambientais e culturais, se valendo da discussão sobre a história da cidade como ponto chave.</linha_fina>
+            <localizacao>Belém - PA. Cobertura: Nossa cobertura jornalística abarca a região metropolitana de Belém, que envolve os municípios de Belém, Ananindeua, Marituba, Benevides, Santa Isabel do Pará, Santa Bárbara do Pará e Castanhal.</localizacao>
+            <logo>423-Outros400.jpg</logo>
+            <twitter>https://twitter.com/Outros400</twitter>
+            <url>http://www.outros400.com.br/</url>
+            <veiculo>Outros400</veiculo>
+            <votos>6</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Doações e assinaturas</como_mantem>
+            <created>2016-11-21</created>
+            <descricao>O Farol Reportagem é uma iniciativa de comunicação em Santa Catarina cujo propósito é orientar leitores e cidadãos que buscam informação bem apurada num mar de notícias irrelevantes. Neste universo abrangente, destacamos três áreas em que o desconhecimento ou o direito a informação negado podem mudar o rumo de uma sociedade: dados públicos, direitos humanos e transparência.</descricao>
+            <email>contato@farolreportagem.com.br</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/farolreportagem/</facebook>
+            <id>428</id>
+            <linha_fina>Dados públicos, direitos humanos e transparência</linha_fina>
+            <localizacao>Florianópolis. Cobre a grande Florianópolis e o estado de Santa Catarina.</localizacao>
+            <logo>428-Farol.jpg</logo>
+            <twitter />
+            <url>www.farolreportagem.com.br</url>
+            <veiculo>Farol Reportagem</veiculo>
+            <votos>11</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Por ora, com financiamento de organização internacional</como_mantem>
+            <created>2016-11-21</created>
+            <descricao>A Gênero e Número é uma iniciativa independente de jornalismo de dados voltada ao debate de gênero. Propõe-se a levantar, tratar e a expor dados e evidências em conteúdos de múltiplos formatos – com reportagens em texto e em vídeo, visualizações de dados interativas, ou mesmo apresentando os bancos de dados construídos ou analisados ao longo das apurações. Transparência é um valor inegociável no nosso trabalho. A revista web Gênero e Número, com edições mensais, é o primeiro produto da organização, que terá ainda outras frentes de atuação.</descricao>
+            <email>contato@generonumero.media</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>https://www.facebook.com/generonumero/</facebook>
+            <id>429</id>
+            <linha_fina>A Gênero e Número é uma iniciativa independente de jornalismo de dados voltada ao debate de gênero.</linha_fina>
+            <localizacao>Foi criada no Rio de Janeiro, mas cobre o Brasil todo. A partir do segundo ano de existência, vai passar a cobrir América Latina.</localizacao>
+            <logo>429-Logo_gn.png</logo>
+            <twitter>www.twitter.com/generonumero</twitter>
+            <url>www.generonumero.media</url>
+            <veiculo>Gênero e Número - Narrativas pela equidade</veiculo>
+            <votos>20</votos>
+         </Mapa>
+      </element>
+      <element>
+         <Mapa>
+            <ativo>true</ativo>
+            <como_mantem>Campanhas de crowdfunding, doações individuais, honorários por palestras, etc. </como_mantem>
+            <created>0000-00-00</created>
+            <descricao>A missão da Comunidades Catalisadoras, que dirige o Rio on Watch é: criar modelos para a integração efetiva entre os assentamentos informais e formais em cidades de todo o mundo, com base na experiência do Rio de Janeiro. A Comunidades Catalisadoras se dedica a melhora da qualidade de vida para todos os moradores do Rio de Janeiro, conduzindo a uma criativa, inclusiva e empoderadora integração entre as comunidades da cidade formal e informal, onde as favelas da cidade exercem controle sobre seu desenvolvimento e são reconhecidas por seu estatuto de patrimônio e seus moradores estejam totalmente atendidos como cidadãos de forma equânime. </descricao>
+            <email>www.twitter.com/rioonwatch</email>
+            <enviado_por>publica</enviado_por>
+            <facebook>www.facebook.com/rioonwatch</facebook>
+            <id>445</id>
+            <linha_fina />
+            <localizacao>Rio de Janeiro</localizacao>
+            <logo>row.jpg</logo>
+            <twitter />
+            <url>www.rioonwatch.org</url>
+            <veiculo>Rio on Watch</veiculo>
+            <votos>2</votos>
+         </Mapa>
+      </element>
+   </results>
+</root>

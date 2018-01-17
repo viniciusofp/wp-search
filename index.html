@@ -1,152 +1,175 @@
+<!doctype html>
 <html ng-app="wpReader">
 	<head>
-		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+		<base href="/">
+		<meta charset="UTF-8">
+		<!-- Global Site Tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-75131519-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments)};
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-75131519-2');
+		</script>
+
+		<meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+
 		<meta charset="utf8">
-		<title>Buscador WP</title>
-		<script src="https://use.fontawesome.com/4ef912055f.js"></script>
-		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<title>jornalismoindependente</title>
 		<link rel="stylesheet" href="style.css">
-		<style>
-		    a {
-		    	color: black;
-		    }
-			h1,h2,h3,h4,h5,h6 {
-				line-height: 1.36em;
-				font-weight: 800;
-			}
-		</style>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKNJZFLHzsa-6g3VeeM0PTfPhC1CETlZM"></script>
+		<script src="dist/scripts.min.js"></script>
+
 	</head>
-	<body ng-controller="FirstCtrl">
-		<div id="singleSource">
+	<body ng-controller="MainCtrl">
+		<header id="wp-reader" class="fixed">
+			<nav class="container-fluid">
+				<div id="nav-left">
+					<ul>
+						<li class="">
+							<a id="sections-btn" href="/#/" ng-click="closeMenu()">
+								<i class="fa fa-home"></i></h4>
+							</a>
+						</li>
+						<li class="sections-trigger">
+							<a id="sections-btn">
+								<i class="fa fa-bars section" aria-hidden="true"></i>
+							</a>
+						</li>
+						<li class="search-form-item hidden-xs">
+							<form id="search-form" class="search" ng-submit="searchSubmit()">
+								<input id="search-field" ng-model="busca.buscatermo" autocomplete="off" name="s" type="text" class="form-control closed" placeholder="Buscar">
+								<i id="search-btn" class="fa fa-search closed"></i>
+							</form>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+		<div id="sections-nav">
+			<div id="nav-inner">
+				<div class="visible-xs section-menu">
+	                <form id="nav-search-mobile">
+	                    <input type="text" placeholder="Buscar" ng-model="busca.buscatermo" autocomplete="off">
+	                    <button type="submit" class="fa fa-search" ng-click="searchSubmit(); closeMenu();"></button>
+	                </form>
+	            </div>
+				<ul class="section-menu">
+					<li class="nested">
+						<a><strong>Todos os sites</strong></a>
+						<i class="fa fa-plus main-nav-angle"></i>
+						<ul class="drop-menu">
+							<li ng-repeat="site in ::sites" class="site-item" ng-click="closeMenu()">
+								<a href="/#/{{::site.slug}}" ng-class="midiaClass(site)">{{::site.name}}</a>
+							</li>
+						</ul>
+					</li>
+					<li class="nested">
+						<a>Categorias</a>
+						<i class="fa fa-plus main-nav-angle"></i>
+						<ul class="drop-menu">
+							<li class="site-item">
+								<a href="/#/categoria/politica">Cidadania e Política</a>
+							</li>
+							<li class="site-item">
+								<a href="/#/categoria/cultura">Cultura e Arte</a>
+							</li>
+							<li class="site-item">
+								<a href="/#/categoria/meioambiente">Meio Ambiente</a>
+							</li>
+							<li class="site-item">
+								<a href="/#/categoria/genero">Gênero</a>
+							</li>
+						</ul>
+					</li>
+					
+					<li class="site-item">
+						<a href="/#/mapa">Mapa</a>
+					</li>
+					<!-- <li class="site-item">
+						<a href="/#/">Sobre</a>
+					</li>
+					<li class="site-item">
+						<a href="/#/">Contato</a>
+					</li> -->
+				</ul>
+				<div id="site-attribution-off-canvas-menu">
+					<p>Desenvolvido por <a href="https://viniciusofp.com.br"><strong>viniciusofp</strong></a></p>
+				</div>		
+			</div>
+		</div>
+		<div id="navlayer"></div>
+		<a name="top"></a>
+		<ng-view></ng-view>
+		<div id="footer-wrapper" class="container-fluid">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-3 col-md-4">
-						<h1>{{sourceName}}</h1>
-
-						<a href="#" ng-click="closeSingleSource()"><h3><i class="fa fa-times" aria-hidden="true"></i> Fechar</h3></a>
+					<div class="col-sm-12">
+						<a href="/#/"><h3>jornalismo<br class="visible-xs"><span style="font-weight: 500">independente.com.br</span></h3></a>
+						<hr>
 					</div>
-					<div class="col-sm-10 col-md-7" style="margin-top: 30px;">
-							<img id="loading" style=" mix-blend-mode: screen;"  src="loader.gif" alt="">
-						<h4>ÚLTIMOS POSTS</h4>
-						<div class="row" ng-repeat="post in singleSourcePosts">
+					<div class="col-sm-12">
+						<ul class="list-inline">
+							<li ng-repeat="site in sites | orderBy: 'name'"><a href="/#/{{site.slug}}">{{site.name}}</a></li>
+						</ul>
+								
+					</div>
+				</div>
+			</div>
+		</div>
+		<script async
+		  src="js/waypoints.min.js"></script>
+		<script async>
+
+			$('.sections-trigger').click(function() {
+				$('#sections-nav').toggleClass('navOpen');
+				$('#wrapper').toggleClass('navOpen');
+				$('#nav-inner').toggleClass('navOpen');
+				$('#navlayer').toggleClass('navOpen');
+			});
+			$('#navlayer').click(function() {
+				$('#sections-nav').toggleClass('navOpen');
+				$('#wrapper').toggleClass('navOpen');
+				$('#nav-inner').toggleClass('navOpen');
+				$('#navlayer').toggleClass('navOpen');
+			});
+			$('li.site-item a').click(function() {
+				$('#sections-nav').toggleClass('navOpen');
+				$('#wrapper').toggleClass('navOpen');
+				$('#nav-inner').toggleClass('navOpen');
+				$('#navlayer').toggleClass('navOpen');
+			});
+
+			$('#search-btn').click(function() {
+				$(this).toggleClass('closed').toggleClass('opened');
+				$('#search-field').toggleClass('closed').toggleClass('opened');
+			});
+
+			$( ".section-menu > li.nested").hover(
+			  function(e) {
+			    $( this ).addClass( "hover" );
+			  }, function() {
+			    $( this ).removeClass( "hover" );
+			  }
+			 );
+
+			$( ".section-menu li.nested a").hover(
+			  function(e) {
+			    $( this ).addClass( "hover" );
+			    $( this ).parent('.section-menu > li').addClass( "unhover" );
+			  }, function() {
+			    $( this ).removeClass( "hover" );
+			    $( this ).parent('.section-menu > li').removeClass( "unhover" );
+			  }
+			 );
+
+			$( ".section-menu > li.nested").click(function() {
+				$(this).children(".drop-menu").toggleClass('opened');
+				$(this).children("i").toggleClass('fa-plus fa-minus');
+			});
+
+		</script>
 		
-							<div class="post-source-container col-md-12">
-								<p class="chapeu"><small><a href="" ng-click="singleSource(post.apiUrl)"><strong>{{post.midia}}</strong></a> | <span ng-bind-html="post.date | date"></span></small></p>
-								<a target="_blank" ng-href="{{post.link}}"><h2  class="media-heading" ng-bind-html="post.title.rendered"></h2></a>
-								<p ng-bind-html="post.resumo" class="lead"></p>
-								<h5><i class="fa fa-clock-o" aria-hidden="true"></i> {{post.readtime}} min.</h5>
-							</div>
-						
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="searchResults">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-3 col-md-4">
-						<h1>{{termobuscado}}</h1>
-						<a href="#" ng-click="closeBuscaResults()"><h4><i class="fa fa-times" aria-hidden="true"></i> Fechar</h4></a>
-
-						<form class="form-inline" style="margin-top: 40px;">
-							<div class="form-group">
-					    		<input type="busca" class="form-control" id="exampleInputEmail1" placeholder="O que você procura?" ng-model="buscatermo" style="color:black">  
-					  		</div>
-					  		<button class="form-control btn btn-warning" type="submit" class="btn btn-warning" ng-click="buscartermo()"><i class="fa fa-search" aria-hidden="true"></i> Buscar</button>
-						</form>
-
-					</div>
-					<div class="col-sm-10 col-md-7" style="margin-top: 30px;">
-						<div class="row" ng-repeat="post in buscaPosts">
-		
-							<div class="post-source-container col-md-12">
-								<p class="chapeu"><small><a href="" ng-click="singleSource(post.apiUrl)"><strong>{{post.midia}}</strong></a> | <span ng-bind-html="post.date | date"></span></small></p>
-								<a target="_blank" ng-href="{{post.link}}"><h2  class="media-heading" ng-bind-html="post.title.rendered"></h2></a>
-								<p ng-bind-html="post.resumo" class="lead"></p>
-								<h5><i class="fa fa-clock-o" aria-hidden="true"></i> {{post.readtime}} min.</h5>
-							</div>
-						
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="next-page"  ng-click="proxPag()">
-			<a  href="#paginaatual"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-		</div>
-		<div id="previous-page" ng-if="paginaAtual > 1" ng-click="prevPag()">
-			<a  href="#paginaatual"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
-		</div>
-<!-- 		<div class="container-fluid" style="background-color: #ffff8a; opacity: 0.1">
-			<div class="container">
-				<div class="row text-center">
-					<div class="col-md-12"><h1>Jornalismo Independente</h1></div>
-					<div class="col-md-12">
-						<form class="form-inline">
-							<div class="form-group">
-					    		<input type="busca" class="form-control" id="exampleInputEmail1" placeholder="O que você procura?" ng-model="buscatermo">  
-					  		</div>
-					  		<button class="form-control" type="submit" class="btn btn-warning" ng-click="buscartermo()">Buscar</button>
-						</form>
-
-						<form class="form-inline">
-							<button class="form-control btn btn-info" type="submit" class="btn btn-info" ng-click="ordenarData()">Ordenar por Data</button>
-						  	<button class="form-control btn btn-info" type="submit" class="btn btn-info" ng-click="ordenarOcc()">Ordenar por Ocorrências do Termo</button>
-						</form>
-						  	
-					  	<h4>Sites:</h4>
-					 	<p><small ng-repeat="site in sites">{{site.name}}, </small></p>
-					</div>
-				</div>
-			</div>
-		</div> -->
-
-		<div class="container">
-			<!-- <div class="row">
-				<div class="col-md-12">
-		  			<h3 style="color:#888" ng-if="buscatermo != ''">Resultados para {{termobuscado}}</h3>
-				</div>
-				<div class="col-md-4" ng-repeat="post in buscaPosts" style="margin-top: 50px;">
-					<p><small><strong>{{post.midia}}</strong> | <span ng-bind-html="post.date | date"></span></small></p>
-					<a target="_blank" ng-href="{{post.link}}"><h5  class="media-heading" ng-bind-html="post.title.rendered"></h5></a>
-					<p>{{post.resumo}}</p>
-				</div>
-			</div> -->
-			<div class="row">
-				<div class="col-md-8">
-				<h1>jornalismo<span style="font-weight: 400;">independente</span><span style="font-weight: 100;">.com.br</span></h1>
-				<h4 id="paginaatual">Página {{paginaAtual}}</h4>
-				</div>
-				<div class="col-md-4">
-					<form class="form-inline" style="margin-top: 40px;">
-						<div class="form-group">
-				    		<input type="busca" class="form-control" id="exampleInputEmail1" placeholder="O que você procura?" ng-model="buscatermo">  
-				  		</div>
-				  		<button class="form-control btn btn-default" type="submit" class="btn btn-warning" ng-click="buscartermo()"><i class="fa fa-search" aria-hidden="true"></i> Buscar</button>
-					</form>
-				</div>
-				
-			</div>
-			<div class="row">
-				<div class="col-sm-6 col-lg-4 post-wrapper" ng-repeat="post in ultimosPosts">
-					<div class="post-container">
-						<p class="chapeu"><small><a href="" ng-click="singleSource(post.apiUrl, post.midia)"><strong>{{post.midia}}</strong></a> | <span ng-bind-html="post.date | date"></span></small></p>
-						<a target="_blank" ng-href="{{post.link}}"><h3  class="media-heading" ng-bind-html="post.title.rendered"></h3></a>
-						<p ng-bind-html="post.resumo"></p>
-						<h5><i class="fa fa-clock-o" aria-hidden="true"></i> {{post.readtime}} min.</h5>
-					</div>
-				</div>
-			</div>
-		</div>
-		<script
-		  src="http://code.jquery.com/jquery-3.2.1.min.js"
-		  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-		  crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-resource.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-sanitize.min.js"></script>
-		<script src="app.js"></script>
 	</body>
 </html>
